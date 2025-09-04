@@ -1,0 +1,5 @@
+# Ignorando a pasta node_modules
+node_modules/
+
+# Ignorando um arquivo
+texte.txt
